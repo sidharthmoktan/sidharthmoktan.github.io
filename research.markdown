@@ -16,7 +16,7 @@ order: 2
 
 <div>
     <h1 style="font-size: 30px;">
-    Works in Progress
+    Work in Progress
     </h1>
 </div>
 
