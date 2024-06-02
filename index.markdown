@@ -14,7 +14,7 @@ order: 1
     </h1>
 
     <h1 style="font-size: 20px;">
-        Welcome to my website! I am a PhD candidate in Economics at the London School of Economics. My research interests are in Urban/Real Estate Economics and Empirical IO. <br><br>
+        Welcome to my website! I am a PhD candidate in Economics at the London School of Economics. My research interests are in Urban/Real Estate Economics and Empirical Industrial Organization. <br><br>
 
         You can reach me by e-mail at: <a href="mailto:s.moktan@lse.ac.uk">s.moktan@lse.ac.uk</a> 
     </h1>
