@@ -10,15 +10,6 @@
   position: relative;
 }
 
-.site-title::before {
-    content: url("../../assets/lse-logo.png");
-    zoom: .025;
-    display: inline-block;
-    position: relative;
-    width: 5px; 
-    left: 2500px;
-    top: 200px;
-}
 
 .site-title {
   @include relative-font-size(1.625);
