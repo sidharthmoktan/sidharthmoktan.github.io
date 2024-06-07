@@ -10,6 +10,7 @@
   position: relative;
 }
 
+
 .site-title::before {
   content: url("../../assets/lse-logo.png");
   transform: scale(0.018);
@@ -18,13 +19,16 @@
   position: absolute;
   margin-left: -60px;
   margin-top: 5px;
-  }
+}
+
+
 
 .site-title {
   @include relative-font-size(1.625);
   font-weight: 300;
   line-height: $base-line-height * $base-font-size * 2.25;
   letter-spacing: -1px;
+  margin-left: 60px;
   margin-bottom: 0;
   float: left;
 
@@ -33,6 +37,8 @@
     color: $grey-color-dark;
   }
 }
+
+
 
 .site-nav {
   float: right;
