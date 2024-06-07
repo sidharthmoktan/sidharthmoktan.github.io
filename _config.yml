@@ -44,12 +44,6 @@ defaults:
     values:
       sitemap:         false
 
-responsive_image:
-  template: _includes/picture.html
-  sizes:
-    - width: 320
-    - width: 480
-    - width: 800
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to

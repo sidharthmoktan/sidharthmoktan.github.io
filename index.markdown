@@ -11,7 +11,7 @@ order: 1
     srcset="../../assets/sidharth_moktan_full_size_23-24.jpg 648w, ../../assets/sidharth_moktan_full_size_23-24_50pc.jpg 320w"
     sizes="(min-width: 768px) 32vw, 100vw"
     alt="image alt text">
-    <h1 style="font-size: 3.7vw">
+    <h1 style="(min-width: 768px) font-size: 3.7vw, 10vw">
         <strong> 
             Sidharth Moktan 
         </strong> 
