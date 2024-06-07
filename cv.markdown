@@ -1,6 +1,6 @@
 ---
 layout: default
 title: Vitae
-permalink: /cv/
+permalink: /vitae/
 order: 3
 ---

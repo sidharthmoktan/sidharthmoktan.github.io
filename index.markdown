@@ -1,12 +1,16 @@
 ---
 layout: default
 title: Home
+permalink: /home/
 order: 1
 ---
 
-
-<img width="40%" height="auto" img style="float: left; padding-right: 50px;"  src="../../assets/sidharth_moktan_full_size_23-24.jpg"/> 
 <p>
+    <img src="../../assets/sidharth_moktan_full_size_23-24.jpg"
+    img style="float: left; padding-right: 5%"
+    srcset="../../assets/sidharth_moktan_full_size_23-24.jpg 648w, ../../assets/sidharth_moktan_full_size_23-24_50pc.jpg 320w"
+    sizes="(min-width: 768px) 32vw, 90vw"
+    alt="image alt text">
     <h1 style="font-size: 350%;">
         <strong> 
             Sidharth Moktan 
