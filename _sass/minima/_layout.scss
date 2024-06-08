@@ -2,11 +2,11 @@
  * Site header
  */
 .site-header {
-  font-size: 10vw;
+  font-size: 20vw;
   text-align: center;
   border-top: 5px solid $grey-color-dark;
   border-bottom: 1px solid $grey-color-light;
-  min-height: $spacing-unit * 5.865;
+  min-height: $spacing-unit * 1.865;
 
   // Positioning context for the mobile navigation icon
   position: relative;
@@ -15,6 +15,7 @@
 @media screen and (min-width: 601px) {
   .site-header {
     font-size: 4.5vw;
+    min-height: $spacing-unit * 5.865;
   }
 }
 
