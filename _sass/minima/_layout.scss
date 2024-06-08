@@ -4,44 +4,32 @@
 .site-header {
   border-top: 5px solid $grey-color-dark;
   border-bottom: 1px solid $grey-color-light;
-  min-height: $spacing-unit * 1.865;
+  min-height: $spacing-unit * 5.865;
 
   // Positioning context for the mobile navigation icon
   position: relative;
 }
 
 
-.site-title::before {
-  content: url("../../assets/lse-logo.png");
-  transform: scale(0.018);
-  transform-origin: top left;
-  display: inline-block;
-  position: absolute;
-  margin-left: -60px;
-  margin-top: 5px;
-}
-
-
 
 .site-title {
-  @include relative-font-size(1.625);
-  font-weight: 300;
+  @include relative-font-size(4);
+  text-align: center;
+  font-weight: 400;
   line-height: $base-line-height * $base-font-size * 2.25;
   letter-spacing: -1px;
   margin-left: 60px;
-  margin-bottom: 0;
-  float: left;
+  margin-bottom: 20px;
+  margin-top: 30px;
 
-  &,
-  &:visited {
-    color: $grey-color-dark;
-  }
+  
 }
 
 
 
 .site-nav {
-  float: right;
+  @include relative-font-size(2);
+  text-align: center;
   line-height: $base-line-height * $base-font-size * 2.25;
 
   .nav-trigger {
@@ -58,7 +46,8 @@
 
     // Gaps between nav items, but not on the last one
     &:not(:last-child) {
-      margin-right: 20px;
+      margin-right: 25px;
+      margin-left: 25px;
     }
   }
 
@@ -73,7 +62,6 @@
 
     label[for="nav-trigger"] {
       display: block;
-      float: right;
       width: 36px;
       height: 36px;
       z-index: 2;
@@ -82,7 +70,6 @@
 
     .menu-icon {
       display: block;
-      float: right;
       width: 36px;
       height: 26px;
       line-height: 0;
