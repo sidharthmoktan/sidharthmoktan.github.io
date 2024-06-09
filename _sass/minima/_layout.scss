@@ -4,9 +4,11 @@
 .site-header {
   font-size: 8vw;
   text-align: center;
-  border-top: 5px solid $grey-color-dark;
-  border-bottom: 1px solid $grey-color-light;
+  border-top: 3px solid $grey-color-light;
+  border-bottom: 1.5px solid navy;
   min-height: $spacing-unit * 1.865;
+  margin-right: $spacing-unit*3 ;
+  margin-left: $spacing-unit*3 ;
 
   // Positioning context for the mobile navigation icon
   position: relative;

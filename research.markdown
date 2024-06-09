@@ -25,10 +25,10 @@ order: 2
 </div>
 
 <ul style="list-style-type:none;">
-<li><b>Housing Assignment in Markets with Rental Housing</b></li>
-<li><b>Lessees and Landlords: Regulating the Buy-to-Let Mortgage Market in the UK</b></li>
-<li><b>The Anatomy of a Shock to Residential Real Estate</b> <small>with Benjamin Guin and Liam Clark</small></li>
-<li><b>Welfare and Distributional Consequences of Constrained College Admissions Under
+<li><b style="font-weight: 600">Housing Assignment in Markets with Rental Housing</b></li>
+<li><b style="font-weight: 600">Lessees and Landlords: Regulating the Buy-to-Let Mortgage Market in the UK</b></li>
+<li><b style="font-weight: 600">The Anatomy of a Shock to Residential Real Estate</b> <small>with Benjamin Guin and Liam Clark</small></li>
+<li><b style="font-weight: 600">Welfare and Distributional Consequences of Constrained College Admissions Under
 Uncertainty</b> <small>with Rebecca Rose</small> </li>
 </ul>  
 <div style="line-height:150%;">
@@ -45,13 +45,13 @@ Uncertainty</b> <small>with Rebecca Rose</small> </li>
 
 
 <ul style="list-style-type:none;">
-<li><b>Risk Differentials between Green and Brown Assets</b> <small> with Benjamin Guin and Perttu Korhonen</small> <br> 
+<li><b style="font-weight: 600">Risk Differentials between Green and Brown Assets</b> <small> with Benjamin Guin and Perttu Korhonen</small> <br> 
     &nbsp; <em>Economics Letters</em>, April 2022<br>
-    &nbsp;<a href="https://www.sciencedirect.com/science/article/abs/pii/S016517652200026X" target="_blank">[Paper Link]</a> </li>
-<li><b>Publishing and Promotion in Economics: The Tyranny of the Top Five.</b> <small> with James J. Heckman</small> <br> 
+    &nbsp;<a style="color: blue" href="https://www.sciencedirect.com/science/article/abs/pii/S016517652200026X" target="_blank">[Paper Link]</a> </li>
+<li><b style="font-weight: 600">Publishing and Promotion in Economics: The Tyranny of the Top Five.</b> <small> with James J. Heckman</small> <br> 
     &nbsp; <em> Journal of Economic Literature</em>, June 2020<br>
-    &nbsp;<a href="https://www.aeaweb.org/articles?id=10.1257/jel.20191574" target="_blank">[Paper Link]</a> </li>
-<li><b>Evaluation of the Reggio Approach to Early Education.</b> <small> with Heckman, J. J., Biroli, P., Del Boca, D., Heckman, L. P., Koh, Y. K., Kuperman, S., Pronzato, C. D., and Ziff, A. L.</small> <br> 
+    &nbsp;<a style="color: blue" href="https://www.aeaweb.org/articles?id=10.1257/jel.20191574" target="_blank">[Paper Link]</a> </li>
+<li><b style="font-weight: 600">Evaluation of the Reggio Approach to Early Education.</b> <small> with Heckman, J. J., Biroli, P., Del Boca, D., Heckman, L. P., Koh, Y. K., Kuperman, S., Pronzato, C. D., and Ziff, A. L.</small> <br> 
     &nbsp; <em> Research in Economics </em> 2017<br>
-    &nbsp;<a href="https://www.sciencedirect.com/science/article/abs/pii/S1090944317301643" target="_blank">[Paper Link]</a> </li>
+    &nbsp;<a style="color: blue"  href="https://www.sciencedirect.com/science/article/abs/pii/S1090944317301643" target="_blank">[Paper Link]</a> </li>
 </ul>  
