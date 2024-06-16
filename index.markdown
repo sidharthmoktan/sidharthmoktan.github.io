@@ -11,12 +11,11 @@ order: 1
     srcset="../../assets/sidharth_moktan_full_size_23-24.jpg 648w, ../../assets/sidharth_moktan_full_size_23-24_50pc.jpg 320w"
     sizes="(min-width: 768px) 32vw, 100vw"
     alt="image alt text">
-    
-    <br>
+
 
     <h3>
-        Welcome to my website! I am a PhD candidate in Economics at the London School of Economics. My research interests are in Urban/Real Estate Economics and Empirical Industrial Organization. <br><br>
+        I am a PhD candidate in Economics at the London School of Economics. My research interests are in Urban and Real Estate Economics, and Empirical Industrial Organization. <br><br><br>
 
-        You can reach me by e-mail at: <a href="mailto:s.moktan@lse.ac.uk">s.moktan@lse.ac.uk</a> 
+        <a href="mailto:s.moktan@lse.ac.uk" class="button" style="color: navy">Email: s.moktan@lse.ac.uk</a> &nbsp; <a href="https://scholar.google.com/citations?user=XO6-sosAAAAJ&hl=en" class="button" style="color: navy" target="_blank">Google Scholar</a>   &nbsp;  <a href="https://www.linkedin.com/in/sidharth-moktan/" class="button"  style="color: navy" target="_blank"    >LinkedIn</a> 
     </h3>
 </p>

@@ -25,7 +25,7 @@ order: 2
 </div>
 
 <ul style="list-style-type:none;">
-<li><b style="font-weight: 600">Housing Assignment in Markets with Rental Housing</b></li>
+<li><b style="font-weight: 600">An Equilibrium Model of the Markets for Owner-Occupied and Rental Housing</b></li>
 <li><b style="font-weight: 600">Lessees and Landlords: Regulating the Buy-to-Let Mortgage Market in the UK</b></li>
 <li><b style="font-weight: 600">The Anatomy of a Shock to Residential Real Estate</b> <small>with Benjamin Guin and Liam Clark</small></li>
 <li><b style="font-weight: 600">Welfare and Distributional Consequences of Constrained College Admissions Under
