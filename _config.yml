@@ -19,11 +19,11 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Sidharth Moktan
-seo_title: Sidharth Moktan Personal Website
-description: Sidharth Moktan Personal Website
+seo_title: Sidharth Moktan
+description: Sidharth Moktan
 email: "S.Moktan@lse.ac.uk"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "Sidharth Moktan" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://sidharthmoktan.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 
 # Build settings
