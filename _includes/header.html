@@ -4,7 +4,7 @@
     {%- assign default_paths = site.pages | sort:"order" | map: "path" -%}
     {%- assign page_paths = site.header_pages | default: default_paths -%}
 
-    <p rel="author">{{ site.title | escape }}</p>
+    <p><h1>{{ site.title | escape }}</h1></p>
     
     {%- if page_paths -%}
       <nav class="site-nav">
