@@ -14,7 +14,7 @@ order: 1
 
 
     <h3>
-        I am a PhD candidate in Economics at the London School of Economics. My research interests are in Urban and Real Estate Economics, and Empirical Industrial Organization. <br><br>
+        I am a PhD candidate in Economics at the London School of Economics. My research interests are in Urban and Real Estate Economics, Household Finance, and Empirical Industrial Organization. <br><br>
         
         <b style="font-weight: 600;" > I am on the 2024-2025 job market. </b>
         <br><br>
