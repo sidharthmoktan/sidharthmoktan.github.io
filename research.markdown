@@ -43,7 +43,7 @@ order: 2
     <br>
 </div>
 <ul style="list-style-type:none;">
-<li><b style="font-weight: 600; font-size: 18px">The Anatomy of a Shock to Residential Real Estate</b> <small>with Benjamin Guin and Liam Clark</small><p style="margin-left: 20px; max-width: 1000px"> <span style="font-size: 14px;"> [Draft coming soon] </span>  </p></li>
+<li><b style="font-weight: 600; font-size: 18px">The Anatomy of a Shock to Residential Real Estate</b> <small>with Benjamin Guin and Liam Clark</small><p style="margin-left: 20px; max-width: 1000px"> <span style="font-size: 14px;"> [Awaiting clearance. Draft coming very soon.] </span>  </p></li>
 </ul>  
 <div style="line-height:150%;">
     <br>
