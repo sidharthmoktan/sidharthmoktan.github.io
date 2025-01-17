@@ -43,7 +43,9 @@ order: 2
     <br>
 </div>
 <ul style="list-style-type:none;">
-<li><b style="font-weight: 600; font-size: 18px">The Anatomy of a Shock to Residential Real Estate</b> <small>with Benjamin Guin and Liam Clark</small><p style="margin-left: 20px; max-width: 1000px"> <span style="font-size: 14px;"> [Draft coming very soon.] </span>  </p></li>
+<li><b style="font-weight: 600; font-size: 18px">The Anatomy of a Shock to Residential Real Estate: The Role of Lending</b> <small>with Benjamin Guin and Liam Clark</small>
+<br> 
+         <p style="margin-left: 20px; max-width: 1000px"> <span style="font-size: 14px;"> <a style="color: blue" href="https://www.bankofengland.co.uk/working-paper/2025/the-anatomy-of-a-shock-to-residential-real-estate-the-role-of-lending" target="_blank">[Paper Link]</a> </span><br> <strong>Abstract:</strong> What is the role of lending in transmitting shocks to residential real estate? We consider this question by examining an adverse and salient shock to a segment of the property market in England and Wales. This shock, arising from a tragic event which resulted in significant loss of life, affected high-rise properties. Using comprehensive administrative data on all residential mortgage and property transactions, combined with property‑level rent data, we study responses in these markets. Consistent with the idea of credit being a ‘financial accelerator’, we document a decline in mortgage originations following the shock, with the sharpest contraction observed among first‑time buyers. We also highlight the role of cash buyers and lender size in dampening the overall impact of the shock. Additionally, the paper provides a conceptual framework that integrates multiple administrative data sets to understand how salient shocks, including those related to climate risks, may affect the property market. It offers valuable insights for financial policymakers on how these shocks propagate through credit and housing markets.  </p> </li>
 </ul>  
 <div style="line-height:150%;">
     <br>
